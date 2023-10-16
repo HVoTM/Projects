@@ -1,2 +1,2 @@
 # Projects
- personal projects where I applied my knowledge to solving CS, Data Science problems
+ personal projects where I applied my knowledge onto solving CS, Data Science problems
